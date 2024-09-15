@@ -9,7 +9,7 @@
   </a> 
 </p>
 
-- 🌱 I’m currently learning **Jetpack Compose**
+- 🌱 I’m currently learning **Jetpack Compose and Backend**
 
 - 📫 How to reach me: **vishukushwaha60@gmail.com**
 
