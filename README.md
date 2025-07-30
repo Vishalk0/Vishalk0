@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishal Kushwaha</h1>
-<h3 align="center">I am passionate about Android development.</h3>
+<h3 align="center">I am Mobile App Developer.</h3>
 
 <img align="right" alt="Coding" width="320" src="https://github.com/user-attachments/assets/63bdb3e3-36ce-481a-a1e3-96fa6ebc49b5">
 
@@ -9,7 +9,7 @@
   </a> 
 </p>
 
-- 🌱 I’m currently learning **Jetpack Compose and Backend**
+- 🌱 I’m currently learning **Animation**
 
 - 📫 How to reach me: **vishukushwaha60@gmail.com**
 
